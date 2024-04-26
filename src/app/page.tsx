@@ -5,7 +5,9 @@ import './globals.css'
 const page = () => {
   return (
     <React.StrictMode>
+
       <App />
+
     </React.StrictMode>
   );
 }
